@@ -1,2 +1,1 @@
-# DTB-Customer-Churn-Project
-Investigating churn rates among customers in DTB bank and building a preictive model to make welll informed decisions to retain customers
+# DTB-Customer-Churn-ProjectAnalyzed customer churn during Job Shadowing Programme at DTB Bank. Developed a predictive model to inform strategies for customer retention. Dataset used was simulated to ensure privacy compliance.
